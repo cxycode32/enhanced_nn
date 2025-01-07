@@ -60,7 +60,7 @@ This implementation achieves high accuracy on the MNIST dataset while offering f
 Feel free to fork this repository, create issues, or submit pull requests. Contributions are welcome!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 Inspired by the PyTorch community and the foundational work in neural networks.
